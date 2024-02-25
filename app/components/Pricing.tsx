@@ -11,7 +11,7 @@ function Pricing() {
 			<p className="pt-[16px] pb-[40px] text-center text-[#36485C] lg:text-[18px]">
 				No hidden fees!
 			</p>
-			<div className="flex flex-col gap-y-6 lg:flex-row">
+			<div className="flex flex-col gap-y-6 gap-x-[24px] lg:flex-row">
 				<CardLight
 					title={"Free Trial"}
 					subtitle={"Perfect for testing the waters"}

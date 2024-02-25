@@ -5,7 +5,7 @@ import Gradient from "../../public/assets/Gradient.svg";
 import HeroImage from "../../public/assets/Image.svg";
 import Google from "../../public/assets/Google.svg";
 import Slack from "../../public/assets/Slack.svg";
-import TrustPilot from "../../public/assets/TrustPilot.svg";
+import TrustPilot from "../../public/assets/Trustpilot.svg";
 import CNN from "../../public/assets/CNN.svg";
 import Clutch from "../../public/assets/Clutch.svg";
 

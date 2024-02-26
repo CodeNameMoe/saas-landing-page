@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Saas landing Page
 
-## Getting Started
+**[DEMO LINK](https://saas-landing-page-one.vercel.app)**
 
-First, run the development server:
+![Saas landing Page](./public/landingpage.jpg)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A SaaS landing page, utilizing a mobile-first approach, to bring a meticulously crafted Figma design to life. Leveraging the power of Next.js and the flexibility of Tailwind CSS, I ensured a seamless and responsive user experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Main Learning Points:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Mobile-First Design: Prioritizing mobile responsiveness, the landing page is designed to deliver an optimal experience across a variety of devices, reflecting a commitment to accessibility and usability.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Next.js for Performance: The project is built on Next.js, a powerful React framework, ensuring enhanced performance and a smooth user navigation experience. The server-side rendering capabilities of Next.js contribute to faster load times and improved SEO.
 
-## Learn More
+- Tailwind CSS Styling: The use of Tailwind CSS allowed for rapid and efficient styling, resulting in a visually appealing and modern interface. The utility-first approach of Tailwind facilitated quick iterations and a consistent design system.
 
-To learn more about Next.js, take a look at the following resources:
+- Figma Design Integration: Bringing the Figma design to life required attention to detail and precision. I meticulously translated the design elements into functional components, ensuring a pixel-perfect representation of the original vision.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Figma design views](./public/figma.jpg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Built with:
 
-## Deploy on Vercel
+- Next.js
+- Tailwind
+- Figma
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
